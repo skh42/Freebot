@@ -4,7 +4,7 @@ const kik_version_14_info = { "kik_version": "14.0.0.11130", "classes_dex_sha1_d
 const kik_version_14_5_info = { "kik_version": "14.5.0.13136", "classes_dex_sha1_digest": "LuYEjtvBu4mG2kBBG0wA3Ki1PSE=" }
 
 
-const device_id = "62030843678b7376a707ca3d11e87836"
+const device_id = "62030843678b7376a707ca3f34e87836"
 const kik_version_info = kik_version_14_5_info
 const android_id = "849d4ffb0c020de6"
 const host = "talk1110an.kik.com"

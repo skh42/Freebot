@@ -1,6 +1,6 @@
 const crypto = require('crypto');
 const NodeRSA = require('node-rsa');
-const uuidv1 = require('uuid/v1');
+const uuidv1 = require('uuidv1');
 
 function build_hmac_key(kik_version_info) {
     const kik_version = kik_version_info["kik_version"]
